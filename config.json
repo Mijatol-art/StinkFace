@@ -3,7 +3,7 @@
   "favicon": "favicon.ico",
   "site_title": "Empire Legacy - Trải nghiệm Minecraft mượt mà, dễ chơi và tuyệt đỉnh",
   "player_counter": {
-    "text": "players conquering the frost",
+    "text": "người chơi đang chơi Empire Legacy ",
     "demo_ip": "empirelegacy.asia"
   },
   "nav_buttons": [
@@ -14,13 +14,7 @@
       "target": "_blank"
     },
     {
-      "text": "Vote Now",
-      "icon": "fas fa-star",
-      "link": "#vote",
-      "target": "_self"
-    },
-    {
-      "text": "Shop",
+      "text": "Suggestions",
       "icon": "fas fa-shopping-cart",
       "link": "https://shop.demo.com",
       "target": "_blank"
@@ -69,7 +63,7 @@
   "final_cta": {
     "title": "What Are You Waiting For?",
     "subtitle": "Join thousands of players already conquering the frozen realm",
-    "ip": "play.demo.com",
+    "ip": "empirelegacy.asia",
     "copy_hint": "Click to copy and join now!"
   },
   "vote_popup": {
@@ -86,3 +80,4 @@
   "footer": "© 2025 Hani x Zunix. Crafted with passion for the ultimate Minecraft experience."
 
 } 
+
