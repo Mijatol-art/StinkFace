@@ -13,6 +13,12 @@
       "link": "https://discord.com/demo",
       "target": "_blank"
     },
+   {
+      "text": "Thông báo",
+      "icon": "fas fa-star",
+      "link": "#vote",
+      "target": "_self"
+    },
     {
       "text": "Suggestions",
       "icon": "fas fa-archive",
@@ -20,65 +26,64 @@
       "target": "_blank"
     }
   ],
+{
   "hero": {
-    "title": "Conquer the Frozen Realm",
-    "subtitle": "Step into a world where survival meets legend. Face brutal winters, forge alliances, and become the ultimate frost warrior in the most challenging Minecraft experience ever created.",
-    "cta_text": "Begin Your Journey",
+    "title": "Chinh Phục Đế Chế Huyền Thoại",
+    "subtitle": "Bước vào thế giới nơi sinh tồn hòa quyện với huyền thoại. Đối mặt thử thách khắc nghiệt, xây dựng liên minh và trở thành chiến binh vĩ đại nhất trong hành trình Empire Legacy.",
+    "cta_text": "Bắt Đầu Hành Trình",
     "cta_icon": "fas fa-play"
   },
-  "features_title": "Legendary Features",
-  "features_subtitle": "Experience cutting-edge gameplay mechanics and features that will redefine your Minecraft adventure",
+  "features_title": "Tính Năng Nổi Bật",
+  "features_subtitle": "Khám phá cơ chế gameplay đột phá và những tính năng sẽ định nghĩa lại trải nghiệm Minecraft của bạn",
   "features": [
     {
       "icon": "fas fa-snowflake",
-      "title": "Extreme Weather Systems",
-      "description": "Face dynamic blizzards, temperature mechanics, and seasonal changes that affect gameplay, crafting, and survival strategies."
+      "title": "Thời Tiết Khắc Nghiệt",
+      "description": "Đối mặt với bão tuyết, cơ chế nhiệt độ và sự thay đổi mùa ảnh hưởng trực tiếp đến chế tạo, sinh tồn và chiến lược của bạn."
     },
     {
       "icon": "fas fa-fire",
-      "title": "Competitive PvP Arenas",
-      "description": "Engage in skill-based combat with custom weapons, armor enchantments, and ranked tournaments in our ice-themed battle arenas."
+      "title": "Đấu Trường PvP Cạnh Tranh",
+      "description": "Tham gia chiến đấu kỹ năng với vũ khí tuỳ chỉnh, phù phép đặc biệt và các giải đấu xếp hạng trong đấu trường huyền thoại."
     },
     {
       "icon": "fas fa-mountain",
-      "title": "Massive Custom Worlds",
-      "description": "Explore hand-crafted frozen landscapes with hidden dungeons, ancient ruins, and secrets waiting to be discovered."
+      "title": "Thế Giới Tùy Chỉnh Rộng Lớn",
+      "description": "Khám phá những vùng đất được thiết kế thủ công, hầm ngục bí ẩn, tàn tích cổ đại và vô số bí mật chờ đón bạn."
     },
     {
       "icon": "fas fa-users",
-      "title": "Guild Warfare",
-      "description": "Form powerful alliances, build mighty fortresses, and wage epic wars for territory control in our persistent world."
+      "title": "Chiến Tranh Bang Hội",
+      "description": "Tạo lập liên minh hùng mạnh, xây dựng pháo đài kiên cố và tiến hành những trận chiến sử thi để giành quyền kiểm soát lãnh thổ."
     },
     {
       "icon": "fas fa-gem",
-      "title": "Unique Progression",
-      "description": "Unlock exclusive abilities, rare materials, and legendary items through our innovative skill tree and achievement system."
+      "title": "Tiến Trình Độc Đáo",
+      "description": "Mở khóa kỹ năng đặc biệt, tài nguyên hiếm và vật phẩm huyền thoại thông qua hệ thống cây kỹ năng và thành tựu sáng tạo."
     },
     {
       "icon": "fas fa-rocket",
-      "title": "Regular Updates",
-      "description": "Experience fresh content monthly with new features, events, and gameplay mechanics developed by our dedicated team."
+      "title": "Cập Nhật Liên Tục",
+      "description": "Trải nghiệm nội dung mới hàng tháng với tính năng, sự kiện và cơ chế gameplay do đội ngũ Empire Legacy tâm huyết phát triển."
     }
   ],
   "final_cta": {
-    "title": "What Are You Waiting For?",
-    "subtitle": "Join thousands of players already conquering the frozen realm",
+    "title": "Còn Chần Chừ Gì Nữa?",
+    "subtitle": "Tham gia hàng nghìn người chơi đang chinh phục Empire Legacy",
     "ip": "empirelegacy.asia",
-    "copy_hint": "Click to copy and join now!"
+    "copy_hint": "Nhấn để sao chép và tham gia ngay!"
   },
-  "vote_popup": {
-    "title": "Vote for Frozen",
-    "links": [
-      { "text": "Vote Site 1", "url": "https://votelink1.com" },
-      { "text": "Vote Site 2", "url": "https://votelink2.com" },
-      { "text": "Vote Site 3", "url": "https://votelink3.com" },
-      { "text": "Vote Site 4", "url": "https://votelink4.com" },
-      { "text": "Vote Site 5", "url": "https://votelink5.com" }
-    ]
+  "notification_popup": {
+    "title": "Thông Báo Empire Legacy",
+    "message": "Tuna Rất Gay.",
+    "button": {
+      "text": "Tham Gia Ngay",
+      "url": "https://empirelegacy.asia/event"
+    },
+    "close_text": "Đóng"
   },
-  "copy_notification": "Server IP copied to clipboard!",
-  "footer": "© 2025 Hani x Zunix. Crafted with passion for the ultimate Minecraft experience."
-
-} 
+  "copy_notification": "Đã sao chép IP máy chủ!",
+  "footer": "© 2025 Empire Legacy. Được xây dựng với đam mê để mang lại trải nghiệm Minecraft đỉnh cao."
+}
 
 
