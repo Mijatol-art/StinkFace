@@ -1,0 +1,87 @@
+{
+  "logo": "logo.png",
+  "favicon": "favicon.ico",
+  "site_title": "Empire Legacy - Trải nghiệm Minecraft mượt mà, dễ chơi và tuyệt đỉnh",
+  "player_counter": {
+    "text": "players conquering the frost",
+    "demo_ip": "empirelegacy.asia"
+  },
+  "nav_buttons": [
+    {
+      "text": "Join Discord",
+      "icon": "fab fa-discord",
+      "link": "https://discord.com/demo",
+      "target": "_blank"
+    },
+    {
+      "text": "Vote Now",
+      "icon": "fas fa-star",
+      "link": "#vote",
+      "target": "_self"
+    },
+    {
+      "text": "Shop",
+      "icon": "fas fa-shopping-cart",
+      "link": "https://shop.demo.com",
+      "target": "_blank"
+    }
+  ],
+  "hero": {
+    "title": "Conquer the Frozen Realm",
+    "subtitle": "Step into a world where survival meets legend. Face brutal winters, forge alliances, and become the ultimate frost warrior in the most challenging Minecraft experience ever created.",
+    "cta_text": "Begin Your Journey",
+    "cta_icon": "fas fa-play"
+  },
+  "features_title": "Legendary Features",
+  "features_subtitle": "Experience cutting-edge gameplay mechanics and features that will redefine your Minecraft adventure",
+  "features": [
+    {
+      "icon": "fas fa-snowflake",
+      "title": "Extreme Weather Systems",
+      "description": "Face dynamic blizzards, temperature mechanics, and seasonal changes that affect gameplay, crafting, and survival strategies."
+    },
+    {
+      "icon": "fas fa-fire",
+      "title": "Competitive PvP Arenas",
+      "description": "Engage in skill-based combat with custom weapons, armor enchantments, and ranked tournaments in our ice-themed battle arenas."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Massive Custom Worlds",
+      "description": "Explore hand-crafted frozen landscapes with hidden dungeons, ancient ruins, and secrets waiting to be discovered."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Guild Warfare",
+      "description": "Form powerful alliances, build mighty fortresses, and wage epic wars for territory control in our persistent world."
+    },
+    {
+      "icon": "fas fa-gem",
+      "title": "Unique Progression",
+      "description": "Unlock exclusive abilities, rare materials, and legendary items through our innovative skill tree and achievement system."
+    },
+    {
+      "icon": "fas fa-rocket",
+      "title": "Regular Updates",
+      "description": "Experience fresh content monthly with new features, events, and gameplay mechanics developed by our dedicated team."
+    }
+  ],
+  "final_cta": {
+    "title": "What Are You Waiting For?",
+    "subtitle": "Join thousands of players already conquering the frozen realm",
+    "ip": "play.frozen.com",
+    "copy_hint": "Click to copy and join now!"
+  },
+  "vote_popup": {
+    "title": "Vote for Frozen",
+    "links": [
+      { "text": "Vote Site 1", "url": "https://votelink1.com" },
+      { "text": "Vote Site 2", "url": "https://votelink2.com" },
+      { "text": "Vote Site 3", "url": "https://votelink3.com" },
+      { "text": "Vote Site 4", "url": "https://votelink4.com" },
+      { "text": "Vote Site 5", "url": "https://votelink5.com" }
+    ]
+  },
+  "copy_notification": "Server IP copied to clipboard!",
+  "footer": "© 2025 Hani x Zunix. Crafted with passion for the ultimate Minecraft experience."
+} 
