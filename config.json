@@ -15,7 +15,7 @@
     },
     {
       "text": "Suggestions",
-      "icon": "fas fa-shopping-cart",
+      "icon": "fas fa-archive",
       "link": "https://shop.demo.com",
       "target": "_blank"
     }
@@ -80,4 +80,5 @@
   "footer": "© 2025 Hani x Zunix. Crafted with passion for the ultimate Minecraft experience."
 
 } 
+
 
