@@ -69,7 +69,7 @@
   "final_cta": {
     "title": "What Are You Waiting For?",
     "subtitle": "Join thousands of players already conquering the frozen realm",
-    "ip": "play.frozen.com",
+    "ip": "play.demo.com",
     "copy_hint": "Click to copy and join now!"
   },
   "vote_popup": {
@@ -84,4 +84,5 @@
   },
   "copy_notification": "Server IP copied to clipboard!",
   "footer": "© 2025 Hani x Zunix. Crafted with passion for the ultimate Minecraft experience."
+
 } 
