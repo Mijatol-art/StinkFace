@@ -3,87 +3,83 @@
   "favicon": "favicon.ico",
   "site_title": "Empire Legacy - Trải nghiệm Minecraft mượt mà, dễ chơi và tuyệt đỉnh",
   "player_counter": {
-    "text": "người chơi đang chơi Empire Legacy ",
+    "text": "người chơi đang chinh phục băng giá",
     "demo_ip": "empirelegacy.asia"
   },
   "nav_buttons": [
     {
-      "text": "Join Discord",
+      "text": "Tham gia Discord",
       "icon": "fab fa-discord",
       "link": "https://discord.com/demo",
       "target": "_blank"
     },
-   {
-      "text": "Thông báo",
+    {
+      "text": "Bình chọn ngay",
       "icon": "fas fa-star",
       "link": "#vote",
       "target": "_self"
     },
     {
-      "text": "Suggestions",
-      "icon": "fas fa-archive",
+      "text": "Cửa hàng",
+      "icon": "fas fa-shopping-cart",
       "link": "https://shop.demo.com",
       "target": "_blank"
     }
   ],
-{
   "hero": {
-    "title": "Chinh Phục Đế Chế Huyền Thoại",
-    "subtitle": "Bước vào thế giới nơi sinh tồn hòa quyện với huyền thoại. Đối mặt thử thách khắc nghiệt, xây dựng liên minh và trở thành chiến binh vĩ đại nhất trong hành trình Empire Legacy.",
-    "cta_text": "Bắt Đầu Hành Trình",
+    "title": "Chinh phục Vương quốc Băng giá",
+    "subtitle": "Bước vào một thế giới nơi sinh tồn gặp gỡ huyền thoại. Đối mặt với mùa đông khắc nghiệt, xây dựng liên minh và trở thành chiến binh băng giá tối thượng trong trải nghiệm Minecraft thử thách nhất từng được tạo ra.",
+    "cta_text": "Bắt đầu Hành trình của bạn",
     "cta_icon": "fas fa-play"
   },
-  "features_title": "Tính Năng Nổi Bật",
-  "features_subtitle": "Khám phá cơ chế gameplay đột phá và những tính năng sẽ định nghĩa lại trải nghiệm Minecraft của bạn",
+  "features_title": "Tính năng Huyền thoại",
+  "features_subtitle": "Trải nghiệm các cơ chế và tính năng chơi game tiên tiến sẽ định nghĩa lại cuộc phiêu lưu Minecraft của bạn",
   "features": [
     {
       "icon": "fas fa-snowflake",
-      "title": "Thời Tiết Khắc Nghiệt",
-      "description": "Đối mặt với bão tuyết, cơ chế nhiệt độ và sự thay đổi mùa ảnh hưởng trực tiếp đến chế tạo, sinh tồn và chiến lược của bạn."
+      "title": "Hệ thống Thời tiết Cực đoan",
+      "description": "Đối mặt với bão tuyết động, cơ chế nhiệt độ và thay đổi theo mùa ảnh hưởng đến lối chơi, chế tạo và chiến lược sinh tồn."
     },
     {
       "icon": "fas fa-fire",
-      "title": "Đấu Trường PvP Cạnh Tranh",
-      "description": "Tham gia chiến đấu kỹ năng với vũ khí tuỳ chỉnh, phù phép đặc biệt và các giải đấu xếp hạng trong đấu trường huyền thoại."
+      "title": "Đấu trường PvP Cạnh tranh",
+      "description": "Tham gia chiến đấu dựa trên kỹ năng với vũ khí tùy chỉnh, phù phép áo giáp và các giải đấu xếp hạng trong các đấu trường băng giá của chúng tôi."
     },
     {
       "icon": "fas fa-mountain",
-      "title": "Thế Giới Tùy Chỉnh Rộng Lớn",
-      "description": "Khám phá những vùng đất được thiết kế thủ công, hầm ngục bí ẩn, tàn tích cổ đại và vô số bí mật chờ đón bạn."
+      "title": "Thế giới Tùy chỉnh Khổng lồ",
+      "description": "Khám phá cảnh quan băng giá được chế tác thủ công với các hầm ngục ẩn, tàn tích cổ xưa và những bí mật đang chờ được khám phá."
     },
     {
       "icon": "fas fa-users",
-      "title": "Chiến Tranh Bang Hội",
-      "description": "Tạo lập liên minh hùng mạnh, xây dựng pháo đài kiên cố và tiến hành những trận chiến sử thi để giành quyền kiểm soát lãnh thổ."
+      "title": "Chiến tranh Bang hội",
+      "description": "Thành lập các liên minh hùng mạnh, xây dựng pháo đài vững chắc và tiến hành các cuộc chiến tranh sử thi để giành quyền kiểm soát lãnh thổ trong thế giới bền vững của chúng tôi."
     },
     {
       "icon": "fas fa-gem",
-      "title": "Tiến Trình Độc Đáo",
-      "description": "Mở khóa kỹ năng đặc biệt, tài nguyên hiếm và vật phẩm huyền thoại thông qua hệ thống cây kỹ năng và thành tựu sáng tạo."
+      "title": "Tiến trình Độc đáo",
+      "description": "Mở khóa các khả năng độc quyền, vật liệu quý hiếm và vật phẩm huyền thoại thông qua cây kỹ năng và hệ thống thành tích sáng tạo của chúng tôi."
     },
     {
       "icon": "fas fa-rocket",
-      "title": "Cập Nhật Liên Tục",
-      "description": "Trải nghiệm nội dung mới hàng tháng với tính năng, sự kiện và cơ chế gameplay do đội ngũ Empire Legacy tâm huyết phát triển."
+      "title": "Cập nhật Thường xuyên",
+      "description": "Trải nghiệm nội dung mới hàng tháng với các tính năng, sự kiện và cơ chế chơi game mới được phát triển bởi đội ngũ tận tâm của chúng tôi."
     }
   ],
   "final_cta": {
-    "title": "Còn Chần Chừ Gì Nữa?",
-    "subtitle": "Tham gia hàng nghìn người chơi đang chinh phục Empire Legacy",
-    "ip": "empirelegacy.asia",
-    "copy_hint": "Nhấn để sao chép và tham gia ngay!"
+    "title": "Bạn còn chờ gì nữa?",
+    "subtitle": "Tham gia cùng hàng nghìn người chơi đã chinh phục vương quốc băng giá",
+    "ip": "play.frozen.com",
+    "copy_hint": "Nhấp để sao chép và tham gia ngay!"
   },
-  "notification_popup": {
-    "title": "Thông Báo Empire Legacy",
-    "message": "Tuna Rất Gay.",
-    "button": {
-      "text": "Tham Gia Ngay",
-      "url": "https://empirelegacy.asia/event"
-    },
+"vote_popup": 
+  "title": "Thông Báo Empire Legacy"
+  "message": "Empire Legacy đang diễn ra sự kiện đặc biệt! Hãy tham gia ngay để nhận phần thưởng hấp dẫn."
+  "button": {
+    "text": "Tham Gia Ngay ( CLOSED )"
+    "url": "https://empirelegacy.asia/event
     "close_text": "Đóng"
   },
-  "copy_notification": "Đã sao chép IP máy chủ!",
-  "footer": "© 2025 Empire Legacy. Được xây dựng với đam mê để mang lại trải nghiệm Minecraft đỉnh cao."
+  "copy_notification": "Địa chỉ IP máy chủ đã được sao chép vào bảng nhớ tạm!",
+  "footer": "© 2025 Hani x Zunix. Được chế tác bằng niềm đam mê cho trải nghiệm Minecraft đỉnh cao."
 }
-
-
